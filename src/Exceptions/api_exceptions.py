@@ -1,0 +1,2 @@
+class StockAPIConnectionError(Exception):
+    pass
